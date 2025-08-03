@@ -1,9 +1,17 @@
-<html>
-  <head>
-    <title>Spinjitu Login</title>
-  </head>
-  <body>
-    <h1>Selamat datang di Spinjitu Login!</h1>
-    <p>Ini adalah halaman pertama saya di GitHub Pages.</p>
-  </body>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Halaman Login</title>
+  <link rel="stylesheet" href="style.css"> <!-- Menghubungkan CSS -->
+</head>
+<body>
+  <div class="login-box">
+    <h1>Spinjitu Login</h1>
+    <p>Selamat datang di Spinjitu Login!</p>
+    <input type="text" placeholder="Username">
+    <input type="password" placeholder="Password">
+    <button>Log in</button>
+  </div>
+</body>
 </html>
